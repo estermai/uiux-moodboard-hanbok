@@ -19,7 +19,7 @@ Canva / Photoshop / pinterest
 
 ## 🖼 Moodboard
 You can view the complete project here:  
-👉 https://github.com/estermai/uiux-moodboard-hanbok
+👉 https://github.com/estermai/uiux-moodboard-hanbok/blob/main/Moodboard%20hanbok.pdf
 ---
 
 ## 💬 About This Project
