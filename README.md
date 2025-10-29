@@ -19,8 +19,7 @@ Canva / Photoshop / pinterest
 
 ## 🖼 Moodboard
 You can view the complete project here:  
-👉 [Moodboard_Hanbok.pdf](moodboard/Moodboard_Hanbok.pdf)
-
+👉 Moodboard hanbok.pdf
 ---
 
 ## 💬 About This Project
